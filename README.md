@@ -1,7 +1,7 @@
 # 💫 About Me
 
-Hi 👋, I’m **Rutik Borude**  
-☕ **Java Backend Developer | Spring Boot | DSA**
+Hi , I’m **Rutik Borude**  
+ **Java Backend Developer | Spring Boot | DSA**
 
 I’m a Java-focused developer passionate about building **robust, scalable backend systems**.  
 I enjoy solving problems using **clean code, strong fundamentals, and efficient data structures**, and I’m actively preparing for **SDE / Java Backend roles**.
